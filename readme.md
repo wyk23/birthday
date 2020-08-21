@@ -20,6 +20,8 @@ var config = {
         "希望你过的更好",
         "高迎双生日快乐",
         "嗨皮波斯得涂油",
+        "你要是以后再废话，俺就揍你",
+        "！！！！！！！！",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -36,10 +38,10 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        turn_on: "gogogo",
+        play: "音乐起",
+        bannar_coming: "啦啦啦点",
+        balloons_flying: "嘿嘿",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
