@@ -6,7 +6,9 @@ var config = {
         "今天是你的生日",
         "希望你过的更好",
         "高迎双生日快乐",
-        "嗨皮波斯得涂油", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "嗨皮波斯得涂油",
+        "你要是以后再废话，俺就有揍你",
+        "！！！！！！！！！！", //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
           // 同上...
         
     ],
@@ -25,13 +27,13 @@ var config = {
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
+        turn_on: "gogogog",
+        play: "音乐起",
+        bannar_coming: "啦啦啦点",
         balloons_flying: "来了",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "Happy birthday",
         story: "A MESSAGE FOR YOU",
     }
 };
